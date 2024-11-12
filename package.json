@@ -1,5 +1,5 @@
 {
-  "name": "Energy-team",
+  "name": "energy-team",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -7,7 +7,7 @@
   "license": "ISC",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Energy-team/",
+    "build": "vite build --base=/energy-team/ --emptyOutDir",
     "preview": "vite preview"
   },
   "devDependencies": {
